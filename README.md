@@ -1,1 +1,2 @@
-# kdiagram_package
+# kdiagram Latex Package
+
